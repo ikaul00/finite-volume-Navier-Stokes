@@ -1,6 +1,6 @@
 # finite-volume-Navier-Stokes
 
-This code contains  a  numerical  scheme  to  solve  the  vorticity  formulation  of  the  Navier-Stokesequations  (NSE)  along  with  their  solutions.
+This code contains  a  numerical  scheme  to  solve  the  vorticity  formulation  of  the  Navier-Stokes equations  (NSE)  along  with  their  solutions.
 The  NSE  is  converted  to  vorticity  evolutions and solved using the Finite Volume method with hyperdiffusion along with Strong Stability Preserving
 3rd  order  Runge  Kutta  time  stepping.   
 We  present  tests  of  the  1D  case  with constant velocity for a Gaussian and a Gaussian + discontinuous top hat initial conditions 
